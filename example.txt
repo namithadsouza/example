@@ -7,3 +7,5 @@ welcome to git repository.
 //editing first time
 
 3. html
+
+//new branch update2 is created
